@@ -2,10 +2,10 @@ FREE FILE & RANDOM CLONING COMMAND
 ------------------------------
 cd
 
-rm-rf FUCKING-XC
+rm -rf FUCKING-XC
 
-git clone https://github.com/MR-FUCKER-906/FUCKING-XC
+git clone https://github.com/MR-FUCKER-906/FUCKING-XC.git
 
-cd FUCKINR-XC
+cd FUCKING-XC
 
 python FUCKER.py
