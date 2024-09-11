@@ -1,4 +1,4 @@
-FILE & RANDOM CLONING COMMAND
+FREE FILE & RANDOM CLONING COMMAND
 ------------------------------
 cd
 
